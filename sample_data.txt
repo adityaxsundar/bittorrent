@@ -1,0 +1,2 @@
+BitTorrent educational client test content.
+This file is used to verify torrent parsing, piece splitting, and SHA-1 piece validation.
